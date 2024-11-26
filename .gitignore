@@ -163,5 +163,7 @@ cython_debug/
 
 
 
-
+# Custom gitignore
 *.ipynb
+*.DS_Store
+data/
